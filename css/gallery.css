@@ -102,11 +102,10 @@ p {
   text-shadow: 1px 1px 1px gray;
 }
 
-@media (max-width: 991px) {​​​​​​
-  #pagewrap {​​​​​​
+@media (max-width: 991px) {
+  #pagewrap {
     padding:50%;
     width: 100%;
     margin:20px auto;
- }​​​​​​
+ }
   }
-  ​​​​​​
