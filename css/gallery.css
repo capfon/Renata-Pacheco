@@ -61,16 +61,6 @@ body {
   object-fit: cover;
 }
 
-.footer {
-  background: white;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  color: #371e33;
-  border-top: gray;
-  clear: both; /*make it to align the icons*/
-}
 
 .pri {
   font-family: "Arial";
