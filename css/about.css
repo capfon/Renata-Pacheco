@@ -5,6 +5,10 @@
   position: fixed;
 }
 
+h2 {
+  text-align:center;
+}
+
 #sign {
   position: fixed;
 }
