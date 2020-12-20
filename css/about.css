@@ -5,11 +5,6 @@
   position: fixed;
 }
 
-.navbar .menu {
-  display:flex;
-  list-style:none;
-}
-
 h2 {
   text-align:center;
 }
